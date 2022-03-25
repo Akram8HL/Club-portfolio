@@ -973,6 +973,9 @@ contact__label{
         grid-template-columns: .6fr;
         justify-content: center;
     }
+    .button{
+        margin-top: -3rem;
+    }
 }
 
 @media screen and (min-width: 768px){
