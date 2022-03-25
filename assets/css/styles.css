@@ -973,7 +973,7 @@ contact__label{
         grid-template-columns: .6fr;
         justify-content: center;
     }
-    .button{
+    .button--white{
         margin-top: -1rem;
     }
 }
